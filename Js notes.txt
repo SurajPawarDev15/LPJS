@@ -32,7 +32,16 @@ Professional	APIs, Fetch, localStorage, debugging
 Interview	Coding problems, output questions, concepts
 
 
-
+Level	Topics to master
+Beginner	Variables, data types, operators, conditions, loops
+Fundamentals	Functions, arrays, objects, strings
+Intermediate	Scope, hoisting, closures, callbacks
+Modern JavaScript	ES6+, destructuring, spread, modules
+DOM	Events, DOM manipulation, forms
+Advanced	Promises, async/await, event loop
+Advanced concepts	Prototypes, classes, this, error handling
+Professional	APIs, Fetch, localStorage, debugging
+Interview	Coding problems, output questions, concepts
 
 
 
