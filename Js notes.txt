@@ -49,7 +49,17 @@ My recommendation: Don't just watch tutorials. Write JavaScript code every day. 
 Your 20-day success target: Be able to write JavaScript independently, explain important concepts confidently, solve basic-to-intermediate coding problems and build a working project.
 
 
+Week 1 – JavaScript fundamentals (Days 1–7)
+Beginner Level
 
+Day 1 – Introduction to JavaScript
+- What is JavaScript?
+- History and features of JavaScript.
+- JavaScript vs Java.
+- Internal working of JavaScript.
+- Setup VS Code and browser console.
+- First program: console.log("Hello JavaScript").
+Practice: Print your name, age, city and career goal.
 
 
 
