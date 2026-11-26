@@ -31,7 +31,6 @@ Advanced concepts	Prototypes, classes, this, error handling
 Professional	APIs, Fetch, localStorage, debugging
 Interview	Coding problems, output questions, concepts
 
-
 Level	Topics to master
 Beginner	Variables, data types, operators, conditions, loops
 Fundamentals	Functions, arrays, objects, strings
@@ -43,11 +42,9 @@ Advanced concepts	Prototypes, classes, this, error handling
 Professional	APIs, Fetch, localStorage, debugging
 Interview	Coding problems, output questions, concepts
 
-
 My recommendation: Don't just watch tutorials. Write JavaScript code every day. Since your goal is Full Stack Development and you already work with Angular and Django, focus particularly on functions, array methods, closures, promises, async/await, event loops and API integration. These concepts will strengthen both your Angular development and backend integration skills. 
 
 Your 20-day success target: Be able to write JavaScript independently, explain important concepts confidently, solve basic-to-intermediate coding problems and build a working project.
-
 
 Week 1 – JavaScript fundamentals (Days 1–7)
 Beginner Level
@@ -60,6 +57,56 @@ Day 1 – Introduction to JavaScript
 - Setup VS Code and browser console.
 - First program: console.log("Hello JavaScript").
 Practice: Print your name, age, city and career goal.
+
+Day 2 – Variables and Data Types
+- var, let, const.
+- String, Number, Boolean.
+- Undefined and Null.
+- BigInt and Symbol.
+- typeof operator.
+- Primitive vs reference types.
+Practice: Create variables for employee information and display them.
+
+Day 3 – Operators
+- Arithmetic operators.
+- Assignment operators.
+- Comparison operators.
+- Logical operators.
+- Ternary operator.
+- Increment and decrement.
+- Strict equality vs loose equality.
+Practice: Build a simple calculator.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
