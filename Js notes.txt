@@ -77,9 +77,23 @@ Day 3 – Operators
 - Strict equality vs loose equality.
 Practice: Build a simple calculator.
 
+Day 4 – Conditional Statements
+- if
+- if...else
+- else if
+- Nested conditions.
+- switch.
+- Truthy and falsy values.
+Practice: Grade calculator, voting eligibility and login validation
 
-
-
+Day 5 – Loops
+- for loop.
+- while loop.
+- do...while.
+- for...of.
+- for...in.
+- break and continue.
+Practice: Multiplication table, factorial, prime number and Fibonacci series.
 
 
 
