@@ -95,7 +95,15 @@ Day 5 – Loops
 - break and continue.
 Practice: Multiplication table, factorial, prime number and Fibonacci series.
 
-
+Day 6 – Functions
+- Function declaration.
+- Function expression.
+- Arrow functions.
+- Parameters and arguments.
+- Return statement.
+- Default parameters.
+- Callback function introduction.
+Practice: Create functions for addition, subtraction, multiplication and division.
 
 
 
